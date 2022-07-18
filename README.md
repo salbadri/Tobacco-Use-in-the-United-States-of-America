@@ -1,5 +1,4 @@
 # Tobacco-Use-in-the-United-States-of-America
-# Tobacco Use in the United States of America
 
 
 # Project Name
